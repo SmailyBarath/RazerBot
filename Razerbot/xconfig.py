@@ -18,12 +18,12 @@ class Config(object):
     BOT_ID = ""
     OWNER_ID = Your_Id  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "YourUsername"
-    START_IMG = "https://graph.org/file/644fddccf30ac191fc895.jpg"
-    ALIVE_IMG = "https://graph.org/file/36c17c0f22aeea9c99895.jpg"
+    START_IMG = "https://telegra.ph/file/4fd47f6ab742a28b5e57c.jpg"
+    ALIVE_IMG = "https://telegra.ph/file/4fd47f6ab742a28b5e57c.jpg"
     UPDATE_CHANNEL = "<channel-username>" # Your own channel for updates, do not add the @
     SUPPORT_CHAT = "<support-chat-username>"  # Your own group for support, do not add the @
-    JOIN_LOGGER = (-10012345678)  # A new channel ID To log who started the bot. Starting with "-100", Put inside braces
-    EVENT_LOGS = (-10012345678)  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
+    JOIN_LOGGER = (-1001666190681)  # A new channel ID To log who started the bot. Starting with "-100", Put inside braces
+    EVENT_LOGS = (-1001666190681)  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
     MONGO_DB_URI = "" 
